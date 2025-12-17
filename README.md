@@ -66,7 +66,7 @@ timeline
     title Learning Progression
 
     section Part 1 – Basics<br>(Part_1_Basics/index1.html,<br>Part_1_Basics/italics_bold_highlight.html)
-    Header elements:
+    Header elements
     Paragraph text formatting:
         Italic<br><em></em>: Bold<br><strong></strong>: Highlight<br><mark></mark>
     Lists:
