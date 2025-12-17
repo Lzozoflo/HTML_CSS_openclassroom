@@ -40,6 +40,7 @@
 <br>
 
 <h2 id="rst">📁 ℝepository Structure Tree</h2>
+
 ```mermaid
 timeline
     title History of Social Media Platform
@@ -53,6 +54,7 @@ timeline
     : In the same file
     : On other file
 ```
+
 <br>
 
 ---
