@@ -9,7 +9,8 @@ mettre le logo et les liens de navigation en haut des pages "Accueil" et "À pro
 
 mettre les différents logos en bas des deux pages dans une autre div ;
 
-sur la page d'accueil, dans le paragraphe d'introduction, vous allez appliquer le style suivant :color: #A5B4FC; au mot "professionnalisme" et au mot "passion". Pour l'instant, vous utiliserez un  <span>  , mais nous le modifierons dans le prochain chapitre pour utiliser <em>.
+sur la page d'accueil, dans le paragraphe d'introduction, vous allez appliquer le style suivant :color: #A5B4FC;
+au mot "professionnalisme" et au mot "passion". Pour l'instant, vous utiliserez un  <span>  , mais nous le modifierons dans le prochain chapitre pour utiliser <em>.
 -->
 
 
@@ -19,17 +20,21 @@ sur la page d'accueil, dans le paragraphe d'introduction, vous allez appliquer l
 <head>
     <meta charset="utf-8">
     <title>Accueil - Robbie Lens Photographie</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <img src="images/logo.png" alt="Logo Robbie Lens">
-    <a href="a-propos.html">À propos</a>
+    <a href="a-propos.html">
+        <img src="images/logo.png" alt="Logo Robbie Lens">
+    </a>
     <h1>Photographie</h1>
     <p>
-        Où professionalisme s’allie avec passion. Depuis plus de 5 ans maintenant, j’exerce mon métier avec la passion
+        Où <span class="introclass">professionalisme</span> s’allie avec <span class="introclass">passion</span>. Depuis plus de 5 ans maintenant, j’exerce mon métier avec la passion
         qui m’anime : capturer l’essence de chaque instant.
     </p>
+
     <img src="images/robbie-lens.png" alt="Portrait de la photographe Robbie Lens">
+    <div>
     <img src="images/logo.png" alt="Logo Robbie Lens">
     <a target="_blank" href="https://twitter.com/">
         <img src="images/twitter.png" alt="Logo Twitter">
@@ -37,6 +42,8 @@ sur la page d'accueil, dans le paragraphe d'introduction, vous allez appliquer l
     <a target="_blank" href="https://www.instagram.com/">
         <img src="images/instagram.png" alt="Logo Instagram">
     </a>
+
+    </div>
 </body>
 
 </html>
