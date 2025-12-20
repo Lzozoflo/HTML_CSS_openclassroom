@@ -94,8 +94,18 @@ timeline
         Images<br><img src="" alt="">:
         src<br>the link of the images with:<br>a path,<br>url:
         alt<br>the accessibility for all user
-    section Part 4 – Images<br>(Part_4_CSS_Basics/)
+    section Part 4 – CSS Basics<br>(Part_4_CSS_Basics/)
         import CSS<br><link rel="stylesheet" href="style.css">
+    section Part 5 – CSS modify font text<br>(Part_5_font_text/)
+        font:
+            size:
+            family:
+            weight
+        text:
+            decoration:
+            align
+    section Part 6 – CSS modify background<br>(Part_6_CSS_Background/)
+    
 
 ```
 

@@ -1,0 +1,84 @@
+a {
+  color: black;
+}
+
+.important {
+  color: #a5b4fc;
+}
+
+h1 {
+  font-size: 3.5em;
+  color:  #a5b4fc;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-size: 1.1em;
+  /* color:  #a5b4fc; */
+  font-family: "Manrope", sans-serif;
+}
+
+
+li {
+  font-size: 1em;
+  /* color:  #a5b4fc; */
+  font-family: "Manrope", sans-serif;
+}
+
+a {
+  font-size: 1em;
+  /* color:  #a5b4fc; */
+  text-decoration: none;
+  font-family: "Manrope", sans-serif;
+}
+
+/* .montserrat- {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.manrope- {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+} */
+
+/* 
+
+Importer les deux polices principales du projet avec Google Font : Montserrat et Manrope.
+
+Assigner les propriétés de polices suivantes :
+
+les titres H1 :
+
+  3.5em  
+
+  en couleur  #A5B4FC  
+
+  police Montserrat
+
+les paragraphes :
+
+  1.1em 
+
+  police Manrope
+
+les listes :
+
+  1em
+
+  police Manrope
+
+les liens :
+
+  enlever le soulignement
+
+  1em
+
+  police Manrope
+
+Remplacer les  <span class="important"></span>  par des éléments  em  tout en gardant le même style.
+*/
