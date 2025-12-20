@@ -1,40 +1,30 @@
-.fst {
 
-    font-style: italic;
-    /* font-style: oblique; */
-    /* font-style: normal; */ /* the default value */
+
+
+
+
+
+
+
+
+body {
+    font-family: sans-serif;
+    margin: 0; /* Vous ne connaissez pas encore cette propriété mais elle permet de s'assurer que nos éléments prennent bien toute la largeur de la page */
 }
 
-.fsi {
-    /* its better to use em than px for responsive */
-    font-size: 1em;
-    font-size: 40em;
+.banniere {
+    padding: 100px; /* Vous ne connaissez pas encore cette propriété mais elle permet d'ajouter de l'espace dans notre élément*/
+    background: linear-gradient(90deg, #8360c3, #2ebf91);
+    opacity: 0.9;
+    /* background-image: url("https://images.unsplash.com/photo-1765734208128-b3c05bc25204?w=300&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIzfGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D");
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: top; */
 }
 
-.ff {
-    /* used to change the font (typo of the charater) */
-    /* we can use this site : https://fonts.google.com/
-       to get an other font and use with a font-family like the actual */
-    font-family:fantasy;
+h1 {
+    color: white;
+    text-align: center;
 }
 
-.fw {
-    /* u can have 100,200,300,400,500,600,700,800,900 */
-    font-weight: 900;
-}
-.td{
-    text-decoration:  underline;
-    text-decoration:  line-through;
-    text-decoration:  none;
-}
-
-.ta {
-    /* L'alignement ne fonctionne que sur des balises de type block : <p>, <div>, <h1>… */
-    /* Aligner le texte d'une balise inline, comme  <span>,  <a>,  <em> ,  <strong> n'est pas possible. */
-    /* Et c'est logique quand on y pense : on ne peut pas modifier l'alignement de quelques mots au milieu d'un paragraphe. */
-
-    text-align: left;       /* erqwer       */
-    text-align: center;     /*    erqwer    */
-    text-align: right;      /*       erqwer */
-    text-align: justify;    /* Justifier le texte permet de faire en sorte qu'il prenne toute la largeur possible sans laisser d'espace blanc à la fin des lignes. Les textes des journaux, par exemple, sont toujours justifiés. */
-}
+/* https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/background */

@@ -10,7 +10,8 @@
 
 ### [📘 Cours HTML & CSS](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3)
 
-#### [📘 Cours bonus pour l'accessibilité des site web (pas fait mais a faire)](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css/6964630-creez-un-contenu-solide-et-accessible#/id/r-6939939)
+- #### [📘 Cours bonus pour faire des animation css (grosse envie de comprendre comment ca fonctionne)](https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes)
+- #### [📘 Cours bonus pour l'accessibilité des site web (pas fait mais a faire)](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css/6964630-creez-un-contenu-solide-et-accessible#/id/r-6939939)
 
 
 <h2 id="summary">🗓 𝕊ummary</h2>
