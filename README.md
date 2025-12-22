@@ -140,8 +140,13 @@ timeline
             "b/c" + "b/c"{css..}
 
     section Part 9 – HTML Organisation<br>(Part_9_HTML_Organisation/)
-
-    
+        Balise délimitant les zone de la page html:
+            "header":en-tête :
+            "footer":pied de page :
+            "nav":liens principaux de navigation :
+            "section":section de page :
+            "aside":informations complémentaires :
+            "article":article indépendant.
 
 ```
 
