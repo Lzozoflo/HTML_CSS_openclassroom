@@ -80,32 +80,67 @@ config:
 timeline
     title Learning Progression
 
-    section Part 1 – Basics<br>(Part_1_HTML_Basics/index.html,<br>Part_1_Basics/italics_bold_highlight.html)
-    Header elements
-    Paragraph text formatting:
-        Italic<br><em></em>: Bold<br><strong></strong>: Highlight<br><mark></mark>
-    Lists:
-        Ordered (1, 2, 3, …): Unordered (• • •)
+    %% section Part 1 – HTML Basics<br>(Part_1_HTML_Basics/index.html,<br>Part_1_Basics/italics_bold_highlight.html)
+    %% Header elements
+    %% Paragraph text formatting:
+    %%     Italic<br><em></em>: Bold<br><strong></strong>: Highlight<br><mark></mark>
+    %% Lists:
+    %%     Ordered (1, 2, 3, …): Unordered (• • •)
 
-    section Part 2 – Anchors<br>(Part_2_Anchor/)
-        ID attributes on different headers
-        Anchor tag<br><a href="...">: Link within the same page using an ID: Link to another local HTML file: Link to an external URL
-        Target attributes: _blank
-    section Part 3 – Images<br>(Part_3_Images_Alt/)
-        Images<br><img src="" alt="">:
-        src<br>the link of the images with:<br>a path,<br>url:
-        alt<br>the accessibility for all user
-    section Part 4 – CSS Basics<br>(Part_4_CSS_Basics/)
-        import CSS<br><link rel="stylesheet" href="style.css">
-    section Part 5 – CSS modify font text<br>(Part_5_font_text/)
-        font:
-            size:
-            family:
-            weight
-        text:
-            decoration:
-            align
-    section Part 6 – CSS modify background<br>(Part_6_CSS_Background/)
+    %% section Part 2 – HTML Anchors<br>(Part_2_HTML_Anchor/)
+    %%     ID attributes on different headers
+    %%     Anchor tag<br><a href="...">: Link within the same page using an ID: Link to another local HTML file: Link to an external URL
+    %%     Target attributes: _blank
+
+    %% section Part 3 – HTML Images<br>(Part_3_HTML_Images_Alt/)
+    %%     Images<br><img src="" alt="">:
+    %%     src<br>the link of the images with:<br>a path,<br>url:
+    %%     alt<br>the accessibility for all user
+
+    %% section Part 4 – CSS Basics<br>(Part_4_CSS_Basics/)
+    %%     import CSS<br><link rel="stylesheet" href="style.css">
+
+    %% section Part 5 – CSS modify font text<br>(Part_5_font_text/)
+    %%     font:
+    %%         size:
+    %%         family:
+    %%         weight
+    %%     text:
+    %%         decoration:
+    %%         align
+
+    %% section Part 6 – CSS Background modify<br>(Part_6_CSS_Background/)
+    %%     Super Balise "background":
+    %%         background-image:
+    %%         background-color (linear-gradient):
+    %%         background-attachment:
+    %%         background-size
+
+    %% section Part 7 – CSS Border Shadow<br>(Part_7_CSS_Border_Shadow/)
+    %%     Super Balise "border":
+    %%         border-radius:
+    %%         border-width:
+    %%         border-top<br>"3px color type; dotted" :
+    %%         border-right<br>"3px color type; double" :
+    %%         border-bottom<br>"3px color type; dashed" :
+    %%         border-left<br>"3px color type; solid" "
+    %%     Shadow:
+    %%         box-shadow:
+    %%         text-shadow
+
+    section Part 8 – CSS Dynamique<br>(b/c means balise or class)<br>(Part_8_CSS_Dynamique/)
+        pseudo-classe:
+            "b/c":hover{css..}:
+            "b/c":active{css..}:
+            "b/c":focus{css..}:
+            "b/c":visited{css..}
+        les sélecteurs avancés:
+            * {css..}:
+            "b/c" "b/c"{css..}:
+            "b/c" + "b/c"{css..}
+
+    section Part 9 – HTML Organisation<br>(Part_9_HTML_Organisation/)
+
     
 
 ```

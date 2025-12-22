@@ -3,7 +3,7 @@ div h1 {
     border-right: 3px #F9D923 double;
     border-bottom: 3px #36AE7C dashed;
     border-left: 3px #187498 solid;
-    text-shadow: 3px 3px 0px rgba(12, 82, 78, 0.779);
+    text-shadow: 3px 3px 0px rgba(12, 82, 78, 0.9);
 }
 
 
@@ -14,7 +14,7 @@ p {
     /* border-radius: 10px; */
     /* border-radius: 10px 30px 0px 90px; */
     border-radius: 30% 70% 70% 30% / 30% 58% 42% 70%;
-
+    /* box: 4em; */
     box-shadow: 6px 6px 0px rgba(145, 207, 176, 0.5);
     /* box-shadow: blue 0px 0px 0px 2px inset, rgb(255, 255, 255) 10px -10px 0px -3px, rgb(31, 193, 27) 10px -10px, rgb(255, 255, 255) 20px -20px 0px -3px, rgb(255, 217, 19) 20px -20px, rgb(255, 255, 255) 30px -30px 0px -3px, rgb(255, 156, 85) 30px -30px, rgb(255, 255, 255) 40px -40px 0px -3px, rgb(255, 85, 85) 40px -40px; */
     padding: 100px;
