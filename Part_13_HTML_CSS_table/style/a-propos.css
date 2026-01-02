@@ -23,23 +23,30 @@
   margin: auto;
 }
 
+
 table {
-  color: white;
-  text-align: center;
-  width: 100%;
-  border-collapse: collapse;
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+    width: 100%;
 }
-
-td,
-th {
-  padding: 15px;
-  border: 1px solid #a5b4fc;
+caption{
+  margin: 1.5em;
+  font-size: 2em;
 }
-
-td {
-  padding: 80px;
+td, th /* Mettre une bordure sur les td ET les th */ {
+    border: 1px solid white;
 }
-
+td, th[scope="row"]  {
+  padding: 2.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: left;
+  font-weight: normal;
+}
+/* th[scope="row"] {
+  text-align: left;
+} */
 h2 {
   margin-bottom: 80px;
 }

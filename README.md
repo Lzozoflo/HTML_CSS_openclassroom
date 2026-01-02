@@ -174,7 +174,23 @@ timeline
 
         Melange de hover et display pour faire apparaitre des composant
 
-    section Part 13 – CSS display hover<br>(Part_13_HTML_CSS_table/)
+    section Part 13 – HTML CSS table<br>(Part_13_HTML_CSS_table/)
+        Balise basic table:
+        caption<br>titre de table:
+        tr<br>Table Row:
+        th<br>Table Header<br>gras centré<br>peut prendre l'attribut scope pour decrire quelle type il est pour l'accessibilité:
+        td<br>Table Data
+
+        Structuration/accessibilité:
+          thead:
+          tbody:
+          tfoot:
+          scope attribut de th
+        Bonus:
+        html fusion de cellule<br>Horizontalement avec colspan<br>Verticalement avec rowspan:
+        css<br>border-collapse; collapse<br>pour avoir des cellule collé
+    section Part 14 – <br>(Part_14_/)
+        
 
 
     section bonus my research - no Part..
