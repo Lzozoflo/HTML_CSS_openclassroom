@@ -162,44 +162,73 @@ timeline
     %%         border<br>margin-...<br>(top-right-bottom-left) :
     %%         padding<br>margin-...<br>(top-right-bottom-left)
 
-    section Part 11 – CSS display..<br>(Part_11_CSS_display_flex_grid/)
-        display; flex:
-          mise en page unidirectionnel
+    %% section Part 11 – CSS display..<br>(Part_11_CSS_display_flex_grid/)
+    %%     display; flex:
+    %%       mise en page unidirectionnel
 
-        display; grid:
-          mise en page bidirectionnel
-    section Part 12 – CSS display hover<br>(Part_12_CSS_display_hover/)
-        display; none:
-          masque toute les composant de la class
+    %%     display; grid:
+    %%       mise en page bidirectionnel
+    %% section Part 12 – CSS display hover<br>(Part_12_CSS_display_hover/)
+    %%     display; none:
+    %%       masque toute les composant de la class
 
-        Melange de hover et display pour faire apparaitre des composant
+    %%     Melange de hover et display pour faire apparaitre des composant
 
-    section Part 13 – HTML CSS table<br>(Part_13_HTML_CSS_table/)
-        Balise basic table:
-        caption<br>titre de table:
-        tr<br>Table Row:
-        th<br>Table Header<br>gras centré<br>peut prendre l'attribut scope pour decrire quelle type il est pour l'accessibilité:
-        td<br>Table Data
+    %% section Part 13 – HTML CSS table<br>(Part_13_HTML_CSS_table/)
+    %%     Balise basic table:
+    %%     caption<br>titre de table:
+    %%     tr<br>Table Row:
+    %%     th<br>Table Header<br>gras centré<br>peut prendre l'attribut scope pour decrire quelle type il est pour l'accessibilité:
+    %%     td<br>Table Data
 
-        Structuration/accessibilité:
-          thead:
-          tbody:
-          tfoot:
-          scope attribut de th
-        Bonus:
-        html fusion de cellule<br>Horizontalement avec colspan<br>Verticalement avec rowspan:
-        css<br>border-collapse; collapse<br>pour avoir des cellule collé
-    section Part 14 – <br>(Part_14_/)
+    %%     Structuration/accessibilité:
+    %%       thead:
+    %%       tbody:
+    %%       tfoot:
+    %%       scope attribut de th
+    %%     Bonus:
+    %%     html fusion de cellule<br>Horizontalement avec colspan<br>Verticalement avec rowspan:
+    %%     css<br>border-collapse; collapse<br>pour avoir des cellule collé
+    section Part 14 – HTML form input textarea<br>(Part_14_HTML_form/)
+        form:
+          attridut methode<br>post get:
+          attridut action<br>l'endroit qui va traiter l'action:
+          fieldset<br>permet de faire des "section" de formulaire:
+          legend<br>titre du fieldset la "section"
+        label:
+          for<br>relier les input a un label avec leur id
+        input type=<br>"les types les plus utils de mon point de vue":
+          buttom:
+          submit:
+          search:
+          text:
+          password:
+          url:
+          tel:
+          email:
+          date:
+          ...
+        input:
+          placeholder<br>texet indicatif:
+          maxlength<br>limit la saisit:
+          size<br>agrandi le champ:
+          valeur<br>le champ est pré-remplit avec cette valeur:
+          autofocus<br>la saisit de text est mise auto dans cette input:
+          required<br>si aucune saisit dans le champ<br>pas de sumbit<br>un message d'alert sous le champ non remplis
+        textarea:
+          rows<br>nombre de lignes:
+          cols<br>nombre de colonnes:
+          il peut y avoir une value part default<br>il faut seulement ecrire entre les balise ouvrante et fermante 
+        liste déroulante:
+          select<br>contient plusieur option selectionable:
+          option<br>selected pour etre la value part default
         
-
-
     section bonus my research - no Part..
         Correction de décalage<br>padding,margin,gap,etc<br>A cause de la scroll-bar:
             scrollbar-gutter:stable<br>alloue la place de la scroll-bar dans page html meme si non active
 
 
 ```
-
 <br>
 
 - [🗓 𝕊ummary](#summary)
