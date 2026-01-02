@@ -11,7 +11,7 @@
 <!-- open classrooms -->
 [tagOpenClassroomsCours-Basic]: https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3
 [tagOpenClassroomsCours-AnimationCss]: https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes
-[tagOpenClassroomsCours-siteAccessible]:(https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css/6964630-creez-un-contenu-solide-et-accessible#/id/r-6939939)
+[tagOpenClassroomsCours-siteAccessible]: https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css/6964630-creez-un-contenu-solide-et-accessible#/id/r-6939939
 
 
 
@@ -163,11 +163,18 @@ timeline
     %%         padding<br>margin-...<br>(top-right-bottom-left)
 
     section Part 11 – CSS display..<br>(Part_11_CSS_display_flex_grid/)
-          display; flex:
-            mise en page unidirectionnel
+        display; flex:
+          mise en page unidirectionnel
 
-          display; grid:
-            mise en page bidirectionnel
+        display; grid:
+          mise en page bidirectionnel
+    section Part 12 – CSS display hover<br>(Part_12_CSS_display_hover/)
+        display; none:
+          masque toute les composant de la class
+
+        Melange de hover et display pour faire apparaitre des composant
+
+    section Part 13 – CSS display hover<br>(Part_13_HTML_CSS_table/)
 
 
     section bonus my research - no Part..
