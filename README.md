@@ -225,12 +225,7 @@ timeline
 ```
 <br>
 
----
-
-<br>
-
 - [🗓 𝕊ummary](#summary)
-
 
 <br>
 
@@ -241,10 +236,6 @@ timeline
 <h2 id="requirements">🛠 ℝequirements</h2>
 
 - un navigateur pour afficher l'html + css
-
-<br>
-
----
 
 <br>
 
