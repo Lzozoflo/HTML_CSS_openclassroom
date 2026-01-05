@@ -28,7 +28,6 @@
 - [𝕆bjectives](#objectives)
 - [🕑 𝕃earning ℙrogression](#learningprogression)
 - [🛠  ℝequirements](#requirements)
-- [𝕌sage](#objectives)
 - [𝕃earning Notes](#learning-notes)
 - [ ℝesources](#resources)
 - [🖋 𝔸uthor](#author)
