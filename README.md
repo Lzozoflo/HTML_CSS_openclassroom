@@ -37,9 +37,6 @@
 
 <h2 id="description">𝔻escription</h2>
 
-suivi d'un petit cours openclassroom sur html
-pour but de fare ensuite leur cours javascript avec leur base donne dans ce cours ci
-
 <br>
 
 - [🗓 𝕊ummary](#summary)
@@ -52,7 +49,10 @@ pour but de fare ensuite leur cours javascript avec leur base donne dans ce cour
 
 <h2 id="objectives">𝕆bjectives</h2>
 
->j'avais deja quelque connaissance basic en html CSS avant ce cours je l'ai fait dans le but de remettre le nez dans l'html simplement avec un cours "reconnue"
+>Je suis ce cours d'html css recommender part le cours javascript
+>pour but de faire ensuite leur cours javascript avec leur base donne dans ce cours ci
+>
+>J'avais deja quelque connaissance basic en html CSS avant ce cours je l'ai fait dans le but de remettre le nez dans l'html simplement avec un cours "reconnue"
 >
 >Revoir des base comme comment mettre du texte en italic en gras
 >>les list ordonner, non ordonner
