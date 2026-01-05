@@ -52,15 +52,16 @@ pour but de fare ensuite leur cours javascript avec leur base donne dans ce cour
 
 <h2 id="objectives">𝕆bjectives</h2>
 
-javais quelque connaissance basic en html CSS avant ce cours je l'ai fait dans le but de remettre le nez dans l´html simplement avec un cours "reconnue"
-
-revoir des base comme comment mettre du texte en italic en gras voir surligne ce que je ne connaisais pas
-les list ordonner, non ordonner
-hypelink qui redirige faire un id ou vers des lien extern 
-img, alt
-et bien d'autre ... 
-
-et au passage faire mon 1er projec avec un essaie de documentation [Markdown][tagMarkdown] sourcer touver ma facon de faire des readme ma typo mon visuel... 
+>j'avais deja quelque connaissance basic en html CSS avant ce cours je l'ai fait dans le but de remettre le nez dans l'html simplement avec un cours "reconnue"
+>
+>Revoir des base comme comment mettre du texte en italic en gras
+>>les list ordonner, non ordonner
+>>hypelink qui redirige faire un id ou vers des lien extern
+>>img, alt
+>Et bien d'autre...  ou/et même d'autre que je ne connaissais pas
+>
+>
+>Et au passage faire mon 1er project avec un essaie de documentation [Markdown][tagMarkdown] sourcer touver ma facon de faire des readme ma typo mon visuel etc... 
 
 <br>
 
@@ -88,7 +89,7 @@ config:
 ---
 timeline
     title Learning Progression
-    
+
     section Part 1 – HTML Basics<br>(Part_1_HTML_Basics/index.html,<br>Part_1_Basics/italics_bold_highlight.html)
     Header elements
     Paragraph text formatting:
@@ -224,6 +225,10 @@ timeline
 ```
 <br>
 
+---
+
+<br>
+
 - [🗓 𝕊ummary](#summary)
 
 
@@ -235,8 +240,12 @@ timeline
 
 <h2 id="requirements">🛠 ℝequirements</h2>
 
-- un nagigateur pour afficher la 'NAMEFILE.html'
-- aucune base en html besoin pour suivre le cours
+- un navigateur pour afficher l'html + css
+
+<br>
+
+---
+
 <br>
 
 - [🗓 𝕊ummary](#summary)
@@ -252,6 +261,7 @@ timeline
 - [W3schools doc/tutorial HTML][tagW3schools]
 - [Mozilla documentation HTML][tagMozillahtml]
 - [Mozilla documentation CSS][tagMozillacss]
+
 <br>
 
 - [🗓 𝕊ummary](#summary)
