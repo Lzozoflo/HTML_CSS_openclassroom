@@ -25,7 +25,6 @@
 
 <h2 id="summary">🗓 𝕊ummary</h2>
 
-- [𝔻escription](#description)
 - [𝕆bjectives](#objectives)
 - [🕑 𝕃earning ℙrogression](#learningprogression)
 - [🛠  ℝequirements](#requirements)
@@ -33,13 +32,6 @@
 - [𝕃earning Notes](#learning-notes)
 - [ ℝesources](#resources)
 - [🖋 𝔸uthor](#author)
-
-
-<h2 id="description">𝔻escription</h2>
-
-<br>
-
-- [🗓 𝕊ummary](#summary)
 
 <br>
 
