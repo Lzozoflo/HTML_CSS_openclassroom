@@ -1,6 +1,16 @@
 *This project has been created by Florent Cretin.*
+<!-- Ceci sont des commentaire pour avec mes font et mes icon personnaliser -->
 <!-- 𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝔾 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ -->
-<!-- 🗎 🖋 👀 🗣 🕑 -->
+<!-- 𝕒 𝕓 𝕔 𝕕 𝕖 𝕗 𝕘 𝕙 𝕚 𝕛 𝕜 𝕝 𝕞 𝕟 𝕠 𝕡 𝕢 𝕣 𝕤 𝕥 𝕦 𝕧 𝕨 𝕩 𝕪 𝕫  -->
+<!-- 𝟘 𝟙 𝟚 𝟛 𝟜 𝟝 𝟞 𝟟 𝟠 𝟡 -->
+<!-- 📘 🗎 🖋 👀 🗣 … -->
+<!-- Double-struck font -->
+<!-- 𝔸𝔹ℂ𝔻𝔼𝔽𝔾ℍ𝕀𝕁𝕂𝕃𝕄ℕ𝕆ℙℚℝ𝕊𝕋𝕌𝕍𝕎𝕏𝕐ℤ𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡 -->
+
+
+<!-- [Tag-test]: url "on hover" -->
+
+
 [tagMarkdown]: https://github.com/Lzozoflo/Markdown
 
 <!-- doc -->
@@ -9,18 +19,19 @@
 [tagW3schools]: https://www.w3schools.com/html/default.asp
 
 <!-- open classrooms -->
-[tagOpenClassroomsCours-Basic]: https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3
-[tagOpenClassroomsCours-AnimationCss]: https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes
-[tagOpenClassroomsCours-siteAccessible]: https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css/6964630-creez-un-contenu-solide-et-accessible#/id/r-6939939
+[tag_open_classroomsCours_Basic]: https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3
+[tag_open_classroomsCours_AnimationCss]: https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes
+[tag_open_classroomsCours_siteAccessible]: https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css/6964630-creez-un-contenu-solide-et-accessible#/id/r-6939939
+
+[tag_icon_html_css]: https://skillicons.dev/icons?i=html,css
+
+# ![icons][tag_icon_html_css] HTML CSS
 
 
+### [📘 Cours HTML & CSS][tag_open_classroomsCours_Basic]
 
-# HTML CSS
-
-### [📘 Cours HTML & CSS][tagOpenClassroomsCours-Basic]
-
-- #### [📘 Cours bonus pour faire des animation css (grosse envie de comprendre comment ca fonctionne)][tagOpenClassroomsCours-AnimationCss]
-- #### [📘 Cours bonus pour l'accessibilité des site web (pas fait mais a faire)][tagOpenClassroomsCours-siteAccessible]
+- #### [📘 Cours bonus pour faire des animation css (grosse envie de comprendre comment ca fonctionne)][tag_open_classroomsCours_AnimationCss]
+- #### [📘 Cours bonus pour l'accessibilité des site web (pas fait mais a faire)][tag_open_classroomsCours_siteAccessible]
 
 
 <h2 id="summary">🗓 𝕊ummary</h2>
